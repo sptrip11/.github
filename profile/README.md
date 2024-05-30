@@ -9,7 +9,7 @@
 # 페이지
 
 ## 1. 메인 화면
-<img src="img/main.png" alt="image" style="max-width: 100%;">
+<img src="../img/main.png" alt="image" style="max-width: 100%;">
 
 ## 2. 회원가입 화면
 <img src="img/sign_up_1.png" alt="image" style="max-width: 100%;">
