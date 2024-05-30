@@ -1,6 +1,6 @@
 # 프로젝트 시연 영상
 
-[![Video Label](/sptrip11/.github/raw/main/img/logo.png)](https://youtu.be/goqDd9qRB5k)
+[![Video Label](https://github.com/sptrip11/.github/blob/62170e9374f78538f60cffdfd4e28af48a256f03/img/logo.png)](https://youtu.be/goqDd9qRB5k)
 
 ##### 이미지를 누르면 시연영상을 확인할 수 있습니다.
 
