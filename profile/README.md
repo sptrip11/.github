@@ -1,12 +1,42 @@
-## Hi there 👋
+# 프로젝트 시연 영상
 
-<!--
+[![Video Label](img/logo.png)](https://youtu.be/goqDd9qRB5k)
 
-**Here are some ideas to get you started:**
+##### 이미지를 누르면 시연영상을 확인할 수 있습니다.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+<br><br>
+
+# 페이지
+
+## 1. 메인 화면
+<img src="img/main.png" alt="image" style="max-width: 100%;">
+
+## 2. 회원가입 화면
+<img src="img/sign_up_1.png" alt="image" style="max-width: 100%;">
+<img src="img/sign_up_2.png" alt="image" style="max-width: 100%;">
+
+## 3. 로그인 화면
+<img src="img/login.png" alt="image" style="max-width: 100%;">
+
+## 4. 프로필 화면
+<img src="img/user.png" alt="image" style="max-width: 100%;">
+
+## 5. 갤러리 화면
+<img src="img/boardList.png" alt="image" style="max-width: 100%;">
+<img src="img/boardInsert.png" alt="image" style="max-width: 100%;">
+<img src="img/board_comment.png" alt="image" style="max-width: 100%;">
+
+## 6. 관광지 맵 화면
+<img src="img/map.png" alt="image" style="max-width: 100%;">
+
+## 7. 관광지 리뷰 화면
+<img src="img/attraction.png" alt="image" style="max-width: 100%;">
+<img src="img/attraction_comment.png" alt="image" style="max-width: 100%;">
+
+## 8. 위시리스트 화면
+<img src="img/wishList.png" alt="image" style="max-width: 100%;">
+
+## 9. 플래너 화면
+<img src="img/planner_1.png" alt="image" style="max-width: 100%;">
+<img src="img/planner_2.png" alt="image" style="max-width: 100%;">
+<img src="img/planner_3.png" alt="image" style="max-width: 100%;">
